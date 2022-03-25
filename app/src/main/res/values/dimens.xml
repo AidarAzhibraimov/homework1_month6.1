@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizeNumber">54sp</dimen>
+    <dimen name="sizeTextButton">16sp</dimen>
+    <dimen name="sizeEText">18sp</dimen>
+</resources>

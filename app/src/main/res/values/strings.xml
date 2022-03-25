@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">homework1_month6.1</string>
+    <string name="send">Отправить</string>
+    <string name="getTitle">Введите текст</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="NoText">Поле пустое</string>
+</resources>
